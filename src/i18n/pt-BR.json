@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "nexgen": "NEXGEN",
+    "nexgenOtica": "NEXGEN Ótica",
+    "segments": "Segmentos",
+    "pricing": "Preços",
+    "about": "Quem Somos",
+    "contact": "Contato",
+    "demo": "Agendar Demo",
+    "support": "Suporte"
+  },
+  "hero": {
+    "title": "58 anos de código que transforma varejo",
+    "subtitle": "O NEXGEN é o ERP completo na nuvem que gerencia sua rede de lojas — do estoque ao BI, do fiscal ao financeiro. Infraestrutura Microsoft Azure.",
+    "cta_demo": "Agendar Demonstração",
+    "cta_consult": "Falar com Consultor"
+  },
+  "trust": {
+    "years": "anos de mercado",
+    "segments": "segmentos atendidos",
+    "cloud": "100% na nuvem",
+    "partner": "Parceiro GrandVision"
+  },
+  "problem": {
+    "title": "Seu varejo ainda depende de planilhas e controles manuais?",
+    "pain1": "Estoque desatualizado entre lojas",
+    "pain2": "Fiscal manual gerando multas",
+    "pain3": "Sem visão unificada do negócio",
+    "solution_title": "O NEXGEN resolve tudo isso",
+    "solution_desc": "Um único sistema integrado que conecta todas as lojas, automatiza o fiscal, e coloca BI na sua mão."
+  },
+  "modules": {
+    "title": "Módulos que cobrem toda a operação",
+    "subtitle": "Cada módulo do NEXGEN foi construído com 58 anos de experiência em varejo real.",
+    "retaguarda": "Retaguarda de Loja",
+    "retaguarda_desc": "Catálogo, estoque, compras, inventário — tudo integrado em tempo real.",
+    "frente": "Frente de Lojas",
+    "frente_desc": "PDV com TEF integrado, convênios, crediário próprio, campanhas.",
+    "fiscal": "Fiscal Completo",
+    "fiscal_desc": "CF-e, NFC-e, NF-e, SPED, DIFAL, CEST — conformidade total automatizada.",
+    "financeiro": "Retaguarda Financeira",
+    "financeiro_desc": "Contas a pagar/receber, DRE automático, conciliação de cartão, SPC/SERASA.",
+    "bi": "Business Intelligence",
+    "bi_desc": "Power BI integrado — vendas, faturamento, estoque, financeiro em dashboards visuais.",
+    "entrega": "Entrega e Montagem",
+    "entrega_desc": "Rotas, veículos, montagem, pesquisa de satisfação — controle total da logística.",
+    "tablet": "Vendas com Tablet",
+    "tablet_desc": "Venda mobile com sugestão de produtos similares e disponibilidade multi-loja."
+  },
+  "segments": {
+    "title": "Soluções sob medida para seu segmento",
+    "subtitle": "O NEXGEN tem processos nativos para cada tipo de varejo.",
+    "oticas": "Óticas",
+    "oticas_desc": "Laboratório óptico, controle de dioptria, OS, integração Luxottica STAR.",
+    "varejo": "Varejo Geral",
+    "varejo_desc": "Moda, eletrônicos, móveis, magazines — gestão completa de redes.",
+    "autopecas": "Autopeças",
+    "autopecas_desc": "Catálogo técnico, compatibilidade de veículos, controle de grade.",
+    "moda": "Moda e Calçados",
+    "moda_desc": "Grade de cores e tamanhos, coleções, campanhas sazonais, franquias."
+  },
+  "partners": {
+    "title": "Parceiros que validam nossa tecnologia",
+    "subtitle": "Infraestrutura de nível global para seu varejo."
+  },
+  "testimonials": {
+    "title": "Quem confia na Secrel",
+    "grandvision_text": "A implantação, mesmo feita de forma acelerada, foi um sucesso.",
+    "grandvision_author": "GrandVision",
+    "grandvision_role": "Rede global de óticas (EssilorLuxottica)",
+    "emilio_text": "Como clientes do Grupo Secrel há mais de 30 anos, atestamos nossa satisfação e testemunhamos seu constante pioneirismo e permanente investimento na melhoria de processos e serviços.",
+    "emilio_author": "Emilio Recamonde",
+    "emilio_role": "Diretor Financeiro — Cliente há 30+ anos"
+  },
+  "differentials": {
+    "title": "Por que o NEXGEN é a escolha segura",
+    "experience": "58 anos de experiência",
+    "experience_desc": "Uma das empresas de TI mais longevas do Brasil.",
+    "cloud": "Infraestrutura Azure",
+    "cloud_desc": "Microsoft Azure, SQL Server e Oracle — escalabilidade global.",
+    "support": "Suporte humanizado",
+    "support_desc": "Atendimento multicanal com consultoria dedicada ao seu sucesso.",
+    "deploy": "Implantação rápida",
+    "deploy_desc": "Treinamento remoto + agente IA conversacional para dúvidas.",
+    "bi": "BI integrado",
+    "bi_desc": "Power BI nativo — dashboards de vendas, estoque e financeiro."
+  },
+  "pricing_preview": {
+    "title": "Investimento transparente",
+    "subtitle": "Sem surpresas. Preços claros desde o primeiro contato.",
+    "from": "A partir de",
+    "per_month": "/mês",
+    "small_label": "Lojas de pequeno porte",
+    "cta": "Ver política completa de preços",
+    "small_plan": "Lojas Pequenas",
+    "small_plan_desc": "Óticas sem laboratório, lojas individuais",
+    "medium_plan": "Médio Porte",
+    "medium_plan_desc": "Redes de lojas, módulos completos",
+    "training_videos": "Vídeos de treinamento",
+    "training_ai": "Treinamento remoto + agente IA",
+    "unit_small": "1 loja + 1 usuário"
+  },
+  "modules_ui": {
+    "expand": "Ver detalhes",
+    "collapse": "Recolher"
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas diretas para suas principais dúvidas."
+  },
+  "cta_final": {
+    "title": "Descubra como o NEXGEN transforma seu varejo",
+    "subtitle": "Solicite um diagnóstico gratuito e receba um plano personalizado para sua operação.",
+    "cta_demo": "Agendar Demonstração Gratuita",
+    "cta_whatsapp": "Falar pelo WhatsApp"
+  },
+  "footer": {
+    "description": "Tecnologia e Soluções Inovadoras para o varejo brasileiro desde 1967.",
+    "solutions": "Soluções",
+    "company": "Institucional",
+    "support_title": "Suporte",
+    "sales": "Vendas",
+    "support_contact": "Suporte ao Cliente",
+    "admin": "Administrativo",
+    "rights": "Todos os direitos reservados."
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

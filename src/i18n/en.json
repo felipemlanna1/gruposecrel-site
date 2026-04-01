@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "nexgen": "NEXGEN",
+    "nexgenOtica": "NEXGEN Optics",
+    "segments": "Segments",
+    "pricing": "Pricing",
+    "about": "About Us",
+    "contact": "Contact",
+    "demo": "Book a Demo",
+    "support": "Support"
+  },
+  "hero": {
+    "title": "58 years of code transforming retail",
+    "subtitle": "NEXGEN is the complete cloud ERP that manages your store network — from inventory to BI, from tax compliance to financials. Microsoft Azure infrastructure.",
+    "cta_demo": "Book a Demo",
+    "cta_consult": "Talk to a Consultant"
+  },
+  "trust": {
+    "years": "years in business",
+    "segments": "segments served",
+    "cloud": "100% cloud-based",
+    "partner": "GrandVision Partner"
+  },
+  "problem": {
+    "title": "Is your retail still relying on spreadsheets and manual controls?",
+    "pain1": "Outdated inventory across stores",
+    "pain2": "Manual tax compliance generating fines",
+    "pain3": "No unified business overview",
+    "solution_title": "NEXGEN solves all of that",
+    "solution_desc": "A single integrated system that connects all stores, automates tax compliance, and puts BI in your hands."
+  },
+  "modules": {
+    "title": "Modules that cover every operation",
+    "subtitle": "Each NEXGEN module was built with 58 years of real retail experience.",
+    "retaguarda": "Store Back Office",
+    "retaguarda_desc": "Catalog, inventory, purchasing, stocktaking — all integrated in real time.",
+    "frente": "Point of Sale",
+    "frente_desc": "POS with integrated EFT, agreements, own credit plans, campaigns.",
+    "fiscal": "Complete Tax Compliance",
+    "fiscal_desc": "CF-e, NFC-e, NF-e, SPED, DIFAL, CEST — fully automated compliance.",
+    "financeiro": "Financial Back Office",
+    "financeiro_desc": "Payables/receivables, automatic P&L, card reconciliation, credit bureau.",
+    "bi": "Business Intelligence",
+    "bi_desc": "Integrated Power BI — sales, revenue, inventory, financial dashboards.",
+    "entrega": "Delivery & Assembly",
+    "entrega_desc": "Routes, vehicles, assembly, satisfaction surveys — total logistics control.",
+    "tablet": "Tablet Sales",
+    "tablet_desc": "Mobile selling with product suggestions and multi-store availability."
+  },
+  "segments": {
+    "title": "Tailored solutions for your segment",
+    "subtitle": "NEXGEN has native processes for every retail type.",
+    "oticas": "Optical Stores",
+    "oticas_desc": "Optical lab, diopter control, work orders, Luxottica STAR integration.",
+    "varejo": "General Retail",
+    "varejo_desc": "Fashion, electronics, furniture, department stores — complete chain management.",
+    "autopecas": "Auto Parts",
+    "autopecas_desc": "Technical catalog, vehicle compatibility, size grid control.",
+    "moda": "Fashion & Footwear",
+    "moda_desc": "Color and size grids, collections, seasonal campaigns, franchises."
+  },
+  "partners": {
+    "title": "Partners that validate our technology",
+    "subtitle": "World-class infrastructure for your retail."
+  },
+  "testimonials": {
+    "title": "Who trusts Secrel",
+    "grandvision_text": "The implementation, even in an accelerated manner, was a success.",
+    "grandvision_author": "GrandVision",
+    "grandvision_role": "Global optical chain (EssilorLuxottica)",
+    "emilio_text": "As clients of Grupo Secrel for over 30 years, we attest to our satisfaction and witness their constant pioneering and permanent investment in improving processes and services.",
+    "emilio_author": "Emilio Recamonde",
+    "emilio_role": "CFO — Client for 30+ years"
+  },
+  "differentials": {
+    "title": "Why NEXGEN is the safe choice",
+    "experience": "58 years of experience",
+    "experience_desc": "One of the longest-standing IT companies in Brazil.",
+    "cloud": "Azure Infrastructure",
+    "cloud_desc": "Microsoft Azure, SQL Server and Oracle — global scalability.",
+    "support": "Human-centered support",
+    "support_desc": "Multichannel service with dedicated success consulting.",
+    "deploy": "Rapid deployment",
+    "deploy_desc": "Remote training + AI conversational agent for questions.",
+    "bi": "Integrated BI",
+    "bi_desc": "Native Power BI — sales, inventory and financial dashboards."
+  },
+  "pricing_preview": {
+    "title": "Transparent investment",
+    "subtitle": "No surprises. Clear pricing from the first contact.",
+    "from": "Starting at",
+    "per_month": "/month",
+    "small_label": "Small stores",
+    "cta": "See full pricing policy",
+    "small_plan": "Small Stores",
+    "small_plan_desc": "Optical stores without lab, single locations",
+    "medium_plan": "Medium Business",
+    "medium_plan_desc": "Store chains, full modules",
+    "training_videos": "Training videos",
+    "training_ai": "Remote training + AI agent",
+    "unit_small": "1 store + 1 user"
+  },
+  "modules_ui": {
+    "expand": "See details",
+    "collapse": "Collapse"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Direct answers to your main questions."
+  },
+  "cta_final": {
+    "title": "Discover how NEXGEN transforms your retail",
+    "subtitle": "Request a free diagnostic and receive a personalized plan for your operation.",
+    "cta_demo": "Book a Free Demo",
+    "cta_whatsapp": "Chat on WhatsApp"
+  },
+  "footer": {
+    "description": "Technology and Innovative Solutions for Brazilian retail since 1967.",
+    "solutions": "Solutions",
+    "company": "Company",
+    "support_title": "Support",
+    "sales": "Sales",
+    "support_contact": "Customer Support",
+    "admin": "Administrative",
+    "rights": "All rights reserved."
+  },
+  "lang": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

@@ -1,0 +1,37 @@
+import Hero from '../components/sections/Hero'
+import TrustBar from '../components/sections/TrustBar'
+import Problem from '../components/sections/Problem'
+import ImpactStrip from '../components/sections/ImpactStrip'
+import Modules from '../components/sections/Modules'
+import Segments from '../components/sections/Segments'
+import Partners from '../components/sections/Partners'
+import Testimonials from '../components/sections/Testimonials'
+import Differentials from '../components/sections/Differentials'
+import PricingPreview from '../components/sections/PricingPreview'
+import Faq from '../components/sections/Faq'
+import CtaFinal from '../components/sections/CtaFinal'
+
+export default function Home() {
+  return (
+    <>
+      {/* DARK */}
+      <Hero />
+      {/* LIGHT */}
+      <TrustBar />
+      <Problem />
+      <ImpactStrip text="58 anos de código que não para — do bureau de dados ao cloud." dark />
+      {/* LIGHT */}
+      <Modules />
+      <Segments />
+      <Partners />
+      {/* DARK */}
+      <Testimonials />
+      {/* LIGHT */}
+      <Differentials />
+      <PricingPreview />
+      <Faq />
+      {/* DARK */}
+      <CtaFinal />
+    </>
+  )
+}
