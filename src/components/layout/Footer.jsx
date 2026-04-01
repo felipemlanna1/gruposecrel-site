@@ -1,12 +1,12 @@
 import { useTranslation } from 'react-i18next'
-import { Phone, Headphones, Mail, MapPin } from 'lucide-react'
+import { Phone, Headphones, Mail, MapPin, Instagram, Linkedin, Facebook, Globe } from 'lucide-react'
 import { siteData } from '../../data/content'
 
 const socialLinks = [
-  { url: 'https://www.instagram.com/gruposecrel', name: 'Instagram', abbr: 'IG' },
-  { url: 'https://www.linkedin.com/company/grupo-secrel', name: 'LinkedIn', abbr: 'In' },
-  { url: 'https://www.facebook.com/gruposecrel', name: 'Facebook', abbr: 'Fb' },
-  { url: 'https://portalerp.com/gruposecrel', name: 'Portal ERP', abbr: 'PE' },
+  { url: 'https://www.instagram.com/gruposecrel', name: 'Instagram', icon: Instagram },
+  { url: 'https://www.linkedin.com/company/grupo-secrel', name: 'LinkedIn', icon: Linkedin },
+  { url: 'https://www.facebook.com/gruposecrel', name: 'Facebook', icon: Facebook },
+  { url: 'https://portalerp.com/gruposecrel', name: 'Portal ERP', icon: Globe },
 ]
 
 export default function Footer() {
@@ -23,11 +23,16 @@ export default function Footer() {
             </div>
             <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed mb-6">{t('footer.description')}</p>
             <div className="flex gap-2">
-              {socialLinks.map((s) => (
-                <a key={s.url} href={s.url} target="_blank" rel="noopener noreferrer"
-                  className="w-11 h-11 rounded-lg bg-white border border-[var(--color-border)] flex items-center justify-center text-[var(--color-text-muted)] hover:text-[var(--color-primary)] hover:border-[var(--color-primary)] transition-colors text-xs font-bold"
-                  aria-label={s.name}>{s.abbr}</a>
-              ))}
+              {socialLinks.map((s) => {
+                const Icon = s.icon
+                return (
+                  <a key={s.url} href={s.url} target="_blank" rel="noopener noreferrer"
+                    className="w-11 h-11 rounded-lg bg-white border border-[var(--color-border)] flex items-center justify-center text-[var(--color-text-muted)] hover:text-[var(--color-primary)] hover:border-[var(--color-primary)] transition-colors"
+                    aria-label={s.name}>
+                    <Icon size={18} />
+                  </a>
+                )
+              })}
             </div>
           </div>
           <div>
