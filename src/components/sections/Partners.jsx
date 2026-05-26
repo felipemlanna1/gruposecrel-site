@@ -7,6 +7,7 @@ const partnerLogos = [
   { name: 'Microsoft', src: '/images/partners/microsoft.png', h: 'h-10 md:h-12' },
   { name: 'Oracle', src: '/images/partners/oracle.png', h: 'h-8 md:h-10' },
   { name: 'Fiserv', src: '/images/partners/fiserv.png', h: 'h-10 md:h-12' },
+  { name: 'Luxottica', src: '/images/partners/luxottica.png', h: 'h-6 md:h-8' },
 ]
 
 function MarqueeRow() {
