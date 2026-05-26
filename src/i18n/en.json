@@ -19,8 +19,7 @@
   "trust": {
     "years": "years in business",
     "segments": "segments served",
-    "cloud": "100% cloud-based",
-    "partner": "GrandVision Partner"
+    "cloud": "100% cloud-based"
   },
   "problem": {
     "title": "Is your retail still relying on spreadsheets and manual controls?",
@@ -52,7 +51,7 @@
     "title": "Tailored solutions for your segment",
     "subtitle": "NEXGEN has native processes for every retail type.",
     "oticas": "Optical Stores",
-    "oticas_desc": "Optical lab, diopter control, work orders, Luxottica STAR integration.",
+    "oticas_desc": "Optical lab, diopter control, work orders, integrations with global systems.",
     "varejo": "General Retail",
     "varejo_desc": "Fashion, electronics, furniture, department stores — complete chain management.",
     "autopecas": "Auto Parts",
@@ -65,10 +64,7 @@
     "subtitle": "World-class infrastructure for your retail."
   },
   "testimonials": {
-    "title": "Who trusts Secrel",
-    "grandvision_text": "The implementation, even in an accelerated manner, was a success.",
-    "grandvision_author": "GrandVision",
-    "grandvision_role": "Global optical chain (EssilorLuxottica)",
+    "title": "Clients who trust Secrel",
     "emilio_text": "As clients of Grupo Secrel for over 30 years, we attest to our satisfaction and witness their constant pioneering and permanent investment in improving processes and services.",
     "emilio_author": "Emilio Recamonde",
     "emilio_role": "CFO — Client for 30+ years"

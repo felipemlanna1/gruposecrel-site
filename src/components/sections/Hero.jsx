@@ -120,7 +120,6 @@ export default function Hero() {
               { name: 'Microsoft', src: '/images/partners/microsoft.png', h: 'h-4 md:h-5' },
               { name: 'Oracle', src: '/images/partners/oracle.png', h: 'h-4 md:h-5' },
               { name: 'Fiserv', src: '/images/partners/fiserv.png', h: 'h-4 md:h-5' },
-              { name: 'EssilorLuxottica', src: '/images/partners/luxottica.png', h: 'h-3 md:h-3.5' },
             ].map((p) => (
               <span key={p.name} className="flex items-center bg-white/5 border border-white/10 rounded-full px-3 py-1.5">
                 <img src={p.src} alt={p.name} className={`${p.h} w-auto brightness-0 invert opacity-60`} loading="lazy" />

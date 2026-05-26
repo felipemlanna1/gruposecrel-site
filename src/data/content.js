@@ -104,16 +104,10 @@ export const partners = [
   { name: 'Microsoft', products: 'Azure, SQL Server, Power BI' },
   { name: 'Oracle', products: 'Oracle Database' },
   { name: 'Fiserv', products: 'SiTef, Carat, Hub de Pix, Adquirência' },
-  { name: 'Luxottica', products: 'Integração STAR para óticas' },
   { name: 'Prática TI', products: 'Revenda e consultoria autorizada' },
 ]
 
 export const testimonials = [
-  {
-    key: 'grandvision',
-    company: 'GrandVision (EssilorLuxottica)',
-    context: 'Rede global de óticas — adquirida por €7.2 bilhões',
-  },
   {
     key: 'emilio',
     company: 'Cliente de 30+ anos',
@@ -173,7 +167,7 @@ export const faqs = [
   },
   {
     question: 'O NEXGEN tem módulo específico para óticas com laboratório?',
-    answer: 'Sim. O NEXGEN Ótica inclui gestão completa de laboratório óptico: controle de dioptria, ordens de serviço, etapas de montagem e surfaçagem, malotes, integração com Luxottica STAR, e predição de prazo de entrega.',
+    answer: 'Sim. O NEXGEN Ótica inclui gestão completa de laboratório óptico: controle de dioptria, ordens de serviço, etapas de montagem e surfaçagem, malotes, integrações com sistemas globais do setor, e predição de prazo de entrega.',
   },
   {
     question: 'Quais segmentos o NEXGEN atende?',

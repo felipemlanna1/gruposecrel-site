@@ -19,8 +19,7 @@
   "trust": {
     "years": "anos de mercado",
     "segments": "segmentos atendidos",
-    "cloud": "100% na nuvem",
-    "partner": "Parceiro GrandVision"
+    "cloud": "100% na nuvem"
   },
   "problem": {
     "title": "Seu varejo ainda depende de planilhas e controles manuais?",
@@ -52,7 +51,7 @@
     "title": "Soluções sob medida para seu segmento",
     "subtitle": "O NEXGEN tem processos nativos para cada tipo de varejo.",
     "oticas": "Óticas",
-    "oticas_desc": "Laboratório óptico, controle de dioptria, OS, integração Luxottica STAR.",
+    "oticas_desc": "Laboratório óptico, controle de dioptria, ordens de serviço, integrações com sistemas globais.",
     "varejo": "Varejo Geral",
     "varejo_desc": "Moda, eletrônicos, móveis, magazines — gestão completa de redes.",
     "autopecas": "Autopeças",
@@ -65,10 +64,7 @@
     "subtitle": "Infraestrutura de nível global para seu varejo."
   },
   "testimonials": {
-    "title": "Quem confia na Secrel",
-    "grandvision_text": "A implantação, mesmo feita de forma acelerada, foi um sucesso.",
-    "grandvision_author": "GrandVision",
-    "grandvision_role": "Rede global de óticas (EssilorLuxottica)",
+    "title": "Clientes que confiam na Secrel",
     "emilio_text": "Como clientes do Grupo Secrel há mais de 30 anos, atestamos nossa satisfação e testemunhamos seu constante pioneirismo e permanente investimento na melhoria de processos e serviços.",
     "emilio_author": "Emilio Recamonde",
     "emilio_role": "Diretor Financeiro — Cliente há 30+ anos"
