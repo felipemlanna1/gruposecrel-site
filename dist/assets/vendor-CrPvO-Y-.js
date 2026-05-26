@@ -1,4 +1,4 @@
-import{r as Be,a as s}from"./i18n-Bc6V74lQ.js";var Y={exports:{}},C={};/**
+import{r as Be,a as s}from"./i18n-BYJWSoBf.js";var Y={exports:{}},C={};/**
  * @license React
  * react-dom.production.js
  *
