@@ -2,3 +2,7 @@
 
 /* Hide ChatBotify - cliente solicitou remoção */
 [id^="rcb-"],[class^="rcb-"],[class*=" rcb-"]{display:none!important;visibility:hidden!important;pointer-events:none!important}
+
+/* Hide leftover GV trust badge (GrandVision removido — i18n key trust.partner inexistente) */
+.grid > div:has(> div.font-extrabold[class*="--color-accent"]){display:none!important}
+.grid.grid-cols-2:has(> div.flex-col > div.font-extrabold[class*="--color-accent"]){grid-template-columns:repeat(3,minmax(0,1fr))!important}
